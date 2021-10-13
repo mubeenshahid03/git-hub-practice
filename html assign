@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <title>
+            Admission Form
+        </title>
+    </head>
+    <body>
+<h1>XYZ High School</h1>
+<p>(Faisalabad)</p>
+<p>Post Office: Faisalabad,Sub District: Chiniot</p>
+<p>EHS:1937840,School code:6988,Zilla Code:33</p>
+<hr />
+
+<h2>(Students Form:Admission/Online)</h2>
+Current Date<input type="date">
+<br>
+Students Name (Capital Letter):<input type="text">
+<br>
+Father Name (Capital Letter):<input type="text">
+<br>
+Mother Name (Capital Letter):<input type="text">
+<br>
+Permanent Address:<input type="text" type="number">
+<br>
+Present Address:<input type="text" type="number">
+<br>
+Religion:<input type="radio"name="Religion":>Hindus
+<input type="radio"name="Religion":>Christian
+<input type="radio" name="Religion":>Muslim
+<input type="radio"name="Religion":>Others
+<br>
+
+Gender:<input type="radio"name="Gender":>Male
+<input type="radio"name="Gender":>Female
+<input type="radio" name="Gender":>Others
+<br>
+Date of Birth:<input type="date">
+<br>
+Birth Reg. Number:<input type="number">
+<br>
+Nationality:<input type="text">
+<br>
+Class:<input type="number">
+<br>
+Class Roll:<input type="number">
+<br>
+Registration Number:<input type="number">
+<br>
+Group:<input type="radio" name="Group">Science
+<input type="radio" name="Group">Arts
+<input type="radio" name="Group">Business
+<input type="radio" name="Group">Not Eligible now
+<br>
+Mobile Number:      Home<input type="number">       Own:<input type="number">
+<br>
+<h2>
+    Subjects:
+</h2>
+<br>
+<table  border="">
+<tr>
+    <td>Physics</td>
+    <td>Math</td>
+    <td>Chemistry</td>
+    <td>Computer</td>
+    <td>English</td>
+    <td>PS</td>
+</tr>
+</table>
+<br>
+Religion:<input type="text">
+Optional:<input type="text">
+<br>
+<br>
+<h2>Signature of student</h2>
+<h2>Signature of office Asistant</h2>
+
+
+    </body>
+</html>
